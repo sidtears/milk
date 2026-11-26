@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- nipple -->
+    <path
+        android:fillColor="#F7B7A3"
+        android:pathData="M54,28c-5,0 -8,4 -8,9h16C62,32 59,28 54,28z" />
+    <!-- collar -->
+    <path
+        android:fillColor="#7FB6E3"
+        android:pathData="M44,37h20v7h-20z" />
+    <!-- bottle body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M45,44h18v28a4,4 0 0,1 -4,4h-10a4,4 0 0,1 -4,-4z" />
+    <!-- milk level lines -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#7FB6E3"
+        android:strokeWidth="2.6"
+        android:strokeLineCap="round"
+        android:pathData="M50,54h8M50,62h8" />
+</vector>
